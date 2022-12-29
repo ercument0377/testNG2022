@@ -24,7 +24,7 @@ public class Day09_C5_FirstConfigTest {
 
         Assert.assertEquals(actualTitle, expectedTitle);
 
-
+//son deneme gönderimi 23.42
     }
 
 
