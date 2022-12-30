@@ -5,6 +5,8 @@ import com.utilities.Driver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+
+
 public class Day09_C5_FirstConfigTest {
     //   app_url  'e git
     //   Title'in' Caretta Hotel - Home oldugunu assert et
@@ -22,9 +24,10 @@ public class Day09_C5_FirstConfigTest {
 
         String expectedTitle = ConfigReader.getProperty("app_title");
 
+
         Assert.assertEquals(actualTitle, expectedTitle);
 
-//son deneme gönderimi 23.42
+
     }
 
 
