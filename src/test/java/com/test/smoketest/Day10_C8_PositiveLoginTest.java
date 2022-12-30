@@ -55,6 +55,3 @@ public class Day10_C8_PositiveLoginTest {
     }
 
 }
-/*
-saat 22.43 te gönderildi
- */

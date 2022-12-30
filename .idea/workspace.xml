@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdc1da1f-7420-428c-953d-6f86a34ea778" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/smoketest/Day10_C8_PositiveLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/smoketest/Day10_C8_PositiveLoginTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="fdc1da1f-7420-428c-953d-6f86a34ea778" name="Changes" comment="son" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -194,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672347691908</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="son">
+      <created>1672429788684</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672429788684</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +215,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="son" />
+    <option name="LAST_COMMIT_MESSAGE" value="son" />
   </component>
 </project>
