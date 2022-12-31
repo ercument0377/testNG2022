@@ -18,6 +18,14 @@ public class LoginPage {
 
     @FindBy(id="btnSubmit")
     public WebElement loginButton;
+    @FindBy(id="details-button")
+    public WebElement advancedLink;
+
+    @FindBy(id="proceed-link")
+    public WebElement proceedLink;
+
+    @FindBy(id="divMessageResult")
+    public WebElement errorMassage;
 
 
 }

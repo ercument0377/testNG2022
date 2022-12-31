@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdc1da1f-7420-428c-953d-6f86a34ea778" name="Changes" comment="son" />
+    <list default="true" id="fdc1da1f-7420-428c-953d-6f86a34ea778" name="Changes" comment="son">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/pages/HotelRoomPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/smoketest/Day11_C10_HotelRoomOlusturma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/smoketest/Day11_C9_NegativeLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/arcane/pages/DefaultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/arcane/pages/DefaultPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/arcane/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/arcane/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/arcane/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/arcane/pages/LoginPage.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +33,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2Jb03DEiJlGzCjG84egBZqXLiKH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -45,76 +53,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.Day10_C8_PositiveLoginTest">
-    <configuration name="Day09_C3_Soft_Assertion" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test" />
-      <option name="MAIN_CLASS_NAME" value="com.test.Day09_C3_Soft_Assertion" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day09_C4_FirstDriverTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test" />
-      <option name="MAIN_CLASS_NAME" value="com.test.Day09_C4_FirstDriverTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day09_C5_FirstConfigTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test" />
-      <option name="MAIN_CLASS_NAME" value="com.test.Day09_C5_FirstConfigTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day10_C7_TestAdressLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test" />
-      <option name="MAIN_CLASS_NAME" value="com.test.Day10_C7_TestAdressLoginTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day10_C8_PositiveLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Day11_C10_HotelRoomOlusturma">
+    <configuration name="Day11_C10_HotelRoomOlusturma" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +63,79 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.test.smoketest" />
-      <option name="MAIN_CLASS_NAME" value="com.test.smoketest.Day10_C8_PositiveLoginTest" />
+      <option name="MAIN_CLASS_NAME" value="com.test.smoketest.Day11_C10_HotelRoomOlusturma" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day11_C9_NegativeLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNG2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.smoketest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.smoketest" />
+      <option name="MAIN_CLASS_NAME" value="com.test.smoketest.Day11_C9_NegativeLoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day11_C9_NegativeLoginTest.invalidID" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNG2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.smoketest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.smoketest" />
+      <option name="MAIN_CLASS_NAME" value="com.test.smoketest.Day11_C9_NegativeLoginTest" />
+      <option name="METHOD_NAME" value="invalidID" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day11_C9_NegativeLoginTest.invalidIDAndPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNG2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.smoketest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.smoketest" />
+      <option name="MAIN_CLASS_NAME" value="com.test.smoketest.Day11_C9_NegativeLoginTest" />
+      <option name="METHOD_NAME" value="invalidIDAndPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day11_C9_NegativeLoginTest.invalidPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNG2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.smoketest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.smoketest" />
+      <option name="MAIN_CLASS_NAME" value="com.test.smoketest.Day11_C9_NegativeLoginTest" />
+      <option name="METHOD_NAME" value="invalidPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -133,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Day10_C8_PositiveLoginTest" />
-        <item itemvalue="TestNG.Day10_C7_TestAdressLoginTest" />
-        <item itemvalue="TestNG.Day09_C5_FirstConfigTest" />
-        <item itemvalue="TestNG.Day09_C4_FirstDriverTest" />
-        <item itemvalue="TestNG.Day09_C3_Soft_Assertion" />
+        <item itemvalue="TestNG.Day11_C10_HotelRoomOlusturma" />
+        <item itemvalue="TestNG.Day11_C9_NegativeLoginTest.invalidIDAndPassword" />
+        <item itemvalue="TestNG.Day11_C9_NegativeLoginTest.invalidPassword" />
+        <item itemvalue="TestNG.Day11_C9_NegativeLoginTest.invalidID" />
+        <item itemvalue="TestNG.Day11_C9_NegativeLoginTest" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672429788684</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="son">
+      <created>1672429827199</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672429827199</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
