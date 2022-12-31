@@ -8,52 +8,51 @@ import org.openqa.selenium.support.PageFactory;
 public class HotelRoomPage {
     public HotelRoomPage(){
         PageFactory.initElements(Driver.getDriver(),this);
-
     }
     @FindBy(partialLinkText = "ADD HOTELROOM")
     public WebElement addHotelRoomLink;
 
-    @FindBy(id="IDHotels")
-    public WebElement IdDropDown;
+    @FindBy(id="IDHotel")
+    public  WebElement IdDropDown;
 
     @FindBy(id="Code")
-    public WebElement code;
+    public  WebElement code;
 
     @FindBy(id="Name")
-    public WebElement name;
+    public  WebElement name;
 
     @FindBy(id="Location")
-    public WebElement location;
+    public  WebElement location;
 
     @FindBy(xpath = "//textarea[@dir='ltr']")
-    public WebElement description;
+    public  WebElement description;
 
     @FindBy(id="Price")
-    public WebElement price;
+    public  WebElement price;
 
-    @FindBy(id = "IDGroupRoomType")
+    @FindBy(id="IDGroupRoomType")
     public WebElement roomTypeDropDown;
 
-    @FindBy(id = "MaxAdultCount")
+    @FindBy(id="MaxAdultCount")
     public WebElement maxAdultCount;
 
-    @FindBy(id = "MaxChildCount")
+    @FindBy(id="MaxChildCount")
     public WebElement maxChildrenCount;
 
-    @FindBy(id = "IsAvailable")
+    @FindBy(id="IsAvailable")
     public WebElement approvedCheckBox;
 
-    @FindBy(id = "btnSubmit")
+    @FindBy(id="btnSubmit")
     public WebElement saveButton;
 
+    @FindBy(xpath = "//li[@data-id='600']")
+    public WebElement price600;
 
+    @FindBy(xpath = "//div[@class='bootbox-body']")
+    public WebElement popupMessage;
 
-
-
-
-
-
-
+    @FindBy(xpath = "//button[@data-bb-handler='ok']")
+    public WebElement okButton;
 
 
 }

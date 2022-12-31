@@ -6,8 +6,9 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage {
+
     public LoginPage(){
-        PageFactory.initElements(Driver.getDriver(),this);
+        PageFactory.initElements(Driver.getDriver(), this);
     }
 
     @FindBy(id="UserName")
@@ -18,6 +19,7 @@ public class LoginPage {
 
     @FindBy(id="btnSubmit")
     public WebElement loginButton;
+
     @FindBy(id="details-button")
     public WebElement advancedLink;
 
@@ -26,6 +28,7 @@ public class LoginPage {
 
     @FindBy(id="divMessageResult")
     public WebElement errorMassage;
+
 
 
 }
