@@ -15,7 +15,7 @@ public class ExcelUtil {
     private Sheet workSheet;
     private String path;
 
-    public ExcelUtil(String path, String sheetName) {//Bu Constructor excel dosyasini acmak ve erisim saglamak icindir
+    public ExcelUtil(String path, String sheetName) {  //Bu Constructor excel dosyasini acmak ve erisim saglamak icindir
         this.path = path;
         try {
             // Excel file acar
