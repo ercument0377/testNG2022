@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdc1da1f-7420-428c-953d-6f86a34ea778" name="Changes" comment="perşembe">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/utilities/ReusableMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exelAutomation/Day13_C13_WriteExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exelAutomation/Day13_C14_LoginSmokeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/recurces/smoketestdata.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/javascriptexecutor/Day14_C15_JSUtilTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dataprovider/Day14_C16_DataProvider1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dataprovider/Day14_C17_DataProvider2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dataprovider/Day14_C18_DataProvider3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/utilities/ExcelUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/utilities/ExcelUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/exelAutomation/Day12_C12_ReadExel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exelAutomation/Day12_C12_ReadExel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/recurces/Baskent.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/recurces/Baskent.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/arcane/pages/Day10_C6_TestAdressLoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/arcane/pages/Day10_C6_TestAdressLoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/arcane/pages/DefaultPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/arcane/pages/DefaultPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/arcane/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/arcane/pages/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/arcane/pages/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/arcane/pages/MainPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/utilities/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/utilities/Driver.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,18 +61,35 @@
       <recent name="C:\Users\Asus\IdeaProjects\testNG2022\src\test\java\recurces" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Day13_C14_LoginSmokeTest.managerLoginTest">
-    <configuration name="Day12_C12_ReadExel.ReadExel" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Day14_C18_DataProvider3">
+    <configuration name="Day14_C15_JSUtilTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exelAutomation.*" />
+          <option name="PATTERN" value="com.javascriptexecutor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exelAutomation" />
-      <option name="MAIN_CLASS_NAME" value="exelAutomation.Day12_C12_ReadExel" />
-      <option name="METHOD_NAME" value="ReadExel" />
+      <option name="PACKAGE_NAME" value="com.javascriptexecutor" />
+      <option name="MAIN_CLASS_NAME" value="com.javascriptexecutor.Day14_C15_JSUtilTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day14_C16_DataProvider1.manageInfo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNG2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataprovider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dataprovider" />
+      <option name="MAIN_CLASS_NAME" value="dataprovider.Day14_C16_DataProvider1" />
+      <option name="METHOD_NAME" value="manageInfo" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -89,17 +97,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day12_C12_ReadExel.exelUtilDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Day14_C17_DataProvider2.managerLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exelAutomation.*" />
+          <option name="PATTERN" value="dataprovider.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exelAutomation" />
-      <option name="MAIN_CLASS_NAME" value="exelAutomation.Day12_C12_ReadExel" />
-      <option name="METHOD_NAME" value="exelUtilDemo" />
+      <option name="PACKAGE_NAME" value="dataprovider" />
+      <option name="MAIN_CLASS_NAME" value="dataprovider.Day14_C17_DataProvider2" />
+      <option name="METHOD_NAME" value="managerLoginTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -107,52 +115,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day13_C13_WriteExcel.writeExcel" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Day14_C18_DataProvider3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exelAutomation.*" />
+          <option name="PATTERN" value="dataprovider.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exelAutomation" />
-      <option name="MAIN_CLASS_NAME" value="exelAutomation.Day13_C13_WriteExcel" />
-      <option name="METHOD_NAME" value="writeExcel" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="dataprovider" />
+      <option name="MAIN_CLASS_NAME" value="dataprovider.Day14_C18_DataProvider3" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day13_C14_LoginSmokeTest.adminLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Day14_C18_DataProvider3.managerLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exelAutomation.*" />
+          <option name="PATTERN" value="dataprovider.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exelAutomation" />
-      <option name="MAIN_CLASS_NAME" value="exelAutomation.Day13_C14_LoginSmokeTest" />
-      <option name="METHOD_NAME" value="adminLoginTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day13_C14_LoginSmokeTest.managerLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exelAutomation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exelAutomation" />
-      <option name="MAIN_CLASS_NAME" value="exelAutomation.Day13_C14_LoginSmokeTest" />
+      <option name="PACKAGE_NAME" value="dataprovider" />
+      <option name="MAIN_CLASS_NAME" value="dataprovider.Day14_C18_DataProvider3" />
       <option name="METHOD_NAME" value="managerLoginTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -163,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Day13_C14_LoginSmokeTest.managerLoginTest" />
-        <item itemvalue="TestNG.Day13_C14_LoginSmokeTest.adminLoginTest" />
-        <item itemvalue="TestNG.Day13_C13_WriteExcel.writeExcel" />
-        <item itemvalue="TestNG.Day12_C12_ReadExel.exelUtilDemo" />
-        <item itemvalue="TestNG.Day12_C12_ReadExel.ReadExel" />
+        <item itemvalue="TestNG.Day14_C18_DataProvider3" />
+        <item itemvalue="TestNG.Day14_C18_DataProvider3.managerLoginTest" />
+        <item itemvalue="TestNG.Day14_C17_DataProvider2.managerLoginTest" />
+        <item itemvalue="TestNG.Day14_C16_DataProvider1.manageInfo" />
+        <item itemvalue="TestNG.Day14_C15_JSUtilTest" />
       </list>
     </recent_temporary>
   </component>
