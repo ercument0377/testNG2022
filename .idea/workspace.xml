@@ -5,11 +5,66 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdc1da1f-7420-428c-953d-6f86a34ea778" name="Changes" comment="perşembe">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/javascriptexecutor/Day14_C15_JSUtilTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dataprovider/Day14_C16_DataProvider1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dataprovider/Day14_C17_DataProvider2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dataprovider/Day14_C18_DataProvider3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel-testing-1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel-testing-2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regressiontest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run-groups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run-methods.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smoketest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/java/com/paralleltesting/ManagerLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/java/com/paralleltesting/SearchItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/java/com/paralleltesting/WebTables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/arcane/pages/Day10_C6_TestAdressLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/arcane/pages/Day10_C6_TestAdressLoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/arcane/pages/DefaultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/arcane/pages/DefaultPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/arcane/pages/HotelReservationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/arcane/pages/HotelReservationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/arcane/pages/HotelRoomPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/arcane/pages/HotelRoomPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/arcane/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/arcane/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/arcane/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/arcane/pages/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/javascriptexecutor/Day14_C15_JSUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/javascriptexecutor/Day14_C15_JSUtilTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/Dat12_C12_WebTables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/test/Day12_C12_WebTables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/Day09_C1_TestNGAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/test/Day09_C1_TestNGAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/Day09_C2_Hard_Assertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/test/Day09_C2_Hard_Assertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/Day09_C3_Soft_Assertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/test/Day09_C3_Soft_Assertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/Day09_C4_FirstDriverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/test/Day09_C4_FirstDriverTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/Day09_C5_FirstConfigTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/test/Day09_C5_FirstConfigTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/Day10_C7_TestAdressLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/test/Day10_C7_TestAdressLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/smoketest/Day10_C8_PositiveLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/test/smoketest/Day10_C8_PositiveLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/smoketest/Day11_C10_HotelRoomOlusturma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/test/smoketest/Day11_C10_HotelRoomOlusturma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/smoketest/Day11_C9_NegativeLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/test/smoketest/Day11_C9_NegativeLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/smoketest/Odev_RoomRezervation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/test/smoketest/Odev_RoomRezervation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/smoketest/not" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/test/smoketest/not" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/staticBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/test/staticBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/utilities/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/utilities/ConfigReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/utilities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/utilities/ExcelUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/utilities/ExcelUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/utilities/JSUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/utilities/JSUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/utilities/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/utilities/ReusableMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/dataprovider/Day14_C16_DataProvider1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/dataprovider/Day14_C16_DataProvider1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/dataprovider/Day14_C17_DataProvider2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/dataprovider/Day14_C17_DataProvider2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/dataprovider/Day14_C18_DataProvider3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/dataprovider/Day14_C18_DataProvider3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exelAutomation/Day12_C12_ReadExel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/exelAutomation/Day12_C12_ReadExel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exelAutomation/Day13_C13_WriteExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/exelAutomation/Day13_C13_WriteExcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exelAutomation/Day13_C14_LoginSmokeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/exelAutomation/Day13_C14_LoginSmokeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/recurces/Baskent.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/recurces/Baskent.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/recurces/smoketestdata.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/com/recurces/smoketestdata.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/arcane/pages/Day10_C6_TestAdressLoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/arcane/pages/DefaultPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/arcane/pages/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/arcane/pages/MainPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/Day09_C1_TestNGAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/Day09_C2_Hard_Assertion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/Day09_C3_Soft_Assertion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/Day09_C4_FirstDriverTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/Day09_C5_FirstConfigTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/Day10_C7_TestAdressLoginTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/smoketest/Day10_C8_PositiveLoginTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/staticBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/utilities/ConfigReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/utilities/Driver.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,89 +116,51 @@
       <recent name="C:\Users\Asus\IdeaProjects\testNG2022\src\test\java\recurces" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Day14_C18_DataProvider3">
-    <configuration name="Day14_C15_JSUtilTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/Asus/IdeaProjects/testNG2022/regressiontest.xml">
+    <configuration name="C:/Users/Asus/IdeaProjects/testNG2022/parallel-testing-2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javascriptexecutor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.javascriptexecutor" />
-      <option name="MAIN_CLASS_NAME" value="com.javascriptexecutor.Day14_C15_JSUtilTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/parallel-testing-2.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day14_C16_DataProvider1.manageInfo" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/Asus/IdeaProjects/testNG2022/regressiontest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dataprovider.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dataprovider" />
-      <option name="MAIN_CLASS_NAME" value="dataprovider.Day14_C16_DataProvider1" />
-      <option name="METHOD_NAME" value="manageInfo" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/regressiontest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day14_C17_DataProvider2.managerLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/Asus/IdeaProjects/testNG2022/run-classes.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dataprovider.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dataprovider" />
-      <option name="MAIN_CLASS_NAME" value="dataprovider.Day14_C17_DataProvider2" />
-      <option name="METHOD_NAME" value="managerLoginTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/run-classes.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day14_C18_DataProvider3" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/Asus/IdeaProjects/testNG2022/run-groups.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dataprovider.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dataprovider" />
-      <option name="MAIN_CLASS_NAME" value="dataprovider.Day14_C18_DataProvider3" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/run-groups.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day14_C18_DataProvider3.managerLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/Asus/IdeaProjects/testNG2022/run-methods.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNG2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dataprovider.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dataprovider" />
-      <option name="MAIN_CLASS_NAME" value="dataprovider.Day14_C18_DataProvider3" />
-      <option name="METHOD_NAME" value="managerLoginTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/run-methods.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -152,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Day14_C18_DataProvider3" />
-        <item itemvalue="TestNG.Day14_C18_DataProvider3.managerLoginTest" />
-        <item itemvalue="TestNG.Day14_C17_DataProvider2.managerLoginTest" />
-        <item itemvalue="TestNG.Day14_C16_DataProvider1.manageInfo" />
-        <item itemvalue="TestNG.Day14_C15_JSUtilTest" />
+        <item itemvalue="TestNG.C:/Users/Asus/IdeaProjects/testNG2022/regressiontest.xml" />
+        <item itemvalue="TestNG.C:/Users/Asus/IdeaProjects/testNG2022/parallel-testing-2.xml" />
+        <item itemvalue="TestNG.C:/Users/Asus/IdeaProjects/testNG2022/run-classes.xml" />
+        <item itemvalue="TestNG.C:/Users/Asus/IdeaProjects/testNG2022/run-groups.xml" />
+        <item itemvalue="TestNG.C:/Users/Asus/IdeaProjects/testNG2022/run-methods.xml" />
       </list>
     </recent_temporary>
   </component>
